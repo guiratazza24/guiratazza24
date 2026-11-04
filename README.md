@@ -68,16 +68,5 @@ I'm always interested in learning opportunities, data projects and collaboration
 
 ---
 
-⭐ Thanks for visiting my profile!
-## 📊 GitHub Statistics
+⭐ Always learning, analyzing and turning data into insights.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guiratazza24&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guiratazza24&layout=compact&theme=tokyonight)
-## 📫 Let's Connect!
-
-I'm always interested in learning opportunities, data projects and collaborations.
-
-- 💼 GitHub: [@guiratazza24](https://github.com/guiratazza24)
-- 📍 Location: Sousse, Tunisia
-- 🎓 Field: Business Intelligence & Data Analytics
