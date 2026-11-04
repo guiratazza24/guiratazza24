@@ -65,3 +65,8 @@ I'm particularly interested in international academic opportunities, practical p
 ---
 
 ⭐ Thanks for visiting my profile!
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guiratazza24&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guiratazza24&layout=compact&theme=tokyonight)
