@@ -58,9 +58,13 @@ I'm particularly interested in international academic opportunities, practical p
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Let's Connect!
 
-- GitHub: [@guiratazza24](https://github.com/guiratazza24)
+I'm always interested in learning opportunities, data projects and collaborations.
+
+- 💼 GitHub: [@guiratazza24](https://github.com/guiratazza24)
+- 📍 Location: Sousse, Tunisia
+- 🎓 Field: Business Intelligence & Data Analytics
 
 ---
 
