@@ -1,3 +1,4 @@
+![Azza Guirat - Business Intelligence](./github-banner.png)
 # Hi, I'm Azza Guirat 👋
 
 ### 🎓 Business Intelligence Student | Aspiring Data Analyst
