@@ -38,29 +38,17 @@ I'm continuously improving my technical and analytical skills through academic p
 
 ---
 
-## 📊 Featured Projects
+## 📂 Featured Projects
 
-### 📈 Sales Analysis Dashboard — Power BI
-- Developed an interactive sales dashboard.
-- Performed data cleaning and transformation using Power Query.
-- Created DAX measures to analyze business performance.
-- Designed visualizations to identify sales trends and insights.
+### 📊 Sales Analysis Dashboard – Power BI
+An interactive dashboard analyzing sales performance using Power BI, Power Query and DAX.
 
-### 🧾 Invoice OCR System — Python
-- Developed an invoice processing project using Python.
-- Explored Optical Character Recognition (OCR).
-- Worked on extracting and processing invoice information.
+🔗 [View Project](https://github.com/guiratazza24/power-bi-sales-analysis)
 
----
+### 🧾 Invoice OCR System – Python
+An OCR-based project designed to extract information from invoices using Python.
 
-## 📚 Currently Learning
-
-- Advanced SQL
-- Python for Data Analysis
-- Business Intelligence
-- Data Analytics
-
----
+🔗 [View Project](https://github.com/guiratazza24/invoice-ocr-system)
 
 ## 🎯 Career Goals
 
