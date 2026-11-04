@@ -50,6 +50,14 @@ An interactive dashboard analyzing sales performance using Power BI, Power Query
 An OCR-based project designed to extract information from invoices using Python.
 
 🔗 [View Project](https://github.com/guiratazza24/invoice-ocr-system)
+### 🏨 Hotel Performance Dashboard
+Business Intelligence project developed during a summer internship at Riadh Palms Hotel.
+
+- Interactive dashboard with hotel performance KPIs.
+- Data analysis using Python and Excel.
+- Occupancy, ADR, RevPAR and revenue analysis.
+
+[View Project on GitHub](https://github.com/guiratazza24/hotel-performance-dashboard)
 
 ## 🎯 Career Goals
 
